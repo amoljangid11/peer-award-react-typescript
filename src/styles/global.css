@@ -1,0 +1,17 @@
+#root {
+  scrollbar-width: thin;
+}
+
+ul::-webkit-scrollbar {
+  width: 6px;
+  background-color: transparent;
+}
+
+ul::-webkit-scrollbar-thumb {
+  background-color: #bbb;
+  border-radius: 6px;
+}
+
+ul::-webkit-scrollbar-thumb:hover {
+  background: #777;
+}

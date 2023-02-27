@@ -1,0 +1,56 @@
+[
+  {
+    "email": "alex.mayers@gmail.com",
+    "firstname": "Alex",
+    "lastname": "Mayers",
+    "image": "alex_mayers.jpg"
+  },
+  {
+    "email": "ali.azar@gmail.com",
+    "firstname": "Ali",
+    "lastname": "Azar",
+    "image": "ali_azar.jpg"
+  },
+  {
+    "email": "liza.postman@gmail.com",
+    "firstname": "Liza",
+    "lastname": "Postman",
+    "image": "liza_postman.jpg"
+  },
+  {
+    "email": "slava.kotechny@gmail.com",
+    "firstname": "Slava",
+    "lastname": "Kotechny",
+    "image": "slava_kotechny.jpg"
+  },
+  {
+    "email": "forest.clearwater@gmail.com",
+    "firstname": "Forest",
+    "lastname": "Clearwater",
+    "image": "forest_clearwater.jpg"
+  },
+  {
+    "email": "paulina.amaritas@gmail.com",
+    "firstname": "Paulina",
+    "lastname": "Amaritas",
+    "image": "paulina_amaritas.jpg"
+  },
+  {
+    "email": "john.adams@gmail.com",
+    "firstname": "John",
+    "lastname": "Adams",
+    "image": "john_adams.jpg"
+  },
+  {
+    "email": "alisa.moorkmowers@gmail.com",
+    "firstname": "Alisa",
+    "lastname": "Moorkmowers",
+    "image": "alisa_moorkmowers.jpg"
+  },
+  {
+    "email": "ben.awad@gmail.com",
+    "firstname": "Ben",
+    "lastname": "Awad",
+    "image": "ben_awad.jpg"
+  }
+]
